@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Dhruv 👋
+
+🎯 Aspiring Software Engineer  
+💻 C++ | DSA | Git & GitHub  
+📚 Preparing for JEE while building dev skills  
+🚀 Currently learning: Python, Open Source, Competitive Programming
+
+📌 Let's connect: [Instagram](https://instagram.com/dhruv_vishwa_99.9)
+
 
 <!--
 **dhruvvishwa/dhruvvishwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

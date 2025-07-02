@@ -3,7 +3,7 @@
 🎯 Aspiring Software Engineer  
 💻 C++ | DSA | Git & GitHub  
 📚 Preparing for JEE while building dev skills  
-🚀 Currently learning: Python, Open Source, Competitive Programming
+🚀 Currently learning: C++, Open Source, Competitive Programming
 
 📌 Let's connect: [Instagram](https://instagram.com/dhruv_vishwa_99.9)
 
